@@ -1,8 +1,7 @@
 <script lang="ts">
-    import Banner from "$lib/components/Banner.svelte";
+import SocialBar from '$lib/components/SocialBar.svelte'
 </script>
 
 <h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
 
-<Banner />
+<SocialBar />
