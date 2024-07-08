@@ -1,7 +1,8 @@
 <script lang="ts">
-import Adsense from "$lib/components/Adsense.svelte";
+    import Banner from "$lib/components/Banner.svelte";
 </script>
 
 <h1>Welcome to SvelteKit</h1>
 <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
-<Adsense />
+
+<Banner />
